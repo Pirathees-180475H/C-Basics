@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596955596 source:c:\users\pts\desktop\c++ ex\c++ 3rd class,object\src\book.cpp
+	"book.h"
+
+1596955595 c:\users\pts\desktop\c++ ex\c++ 3rd class,object\include\book.h
+
+1596962253 source:c:\users\pts\desktop\c++ ex\c++ 3rd class,object\main.cpp
+	<iostream>
+
